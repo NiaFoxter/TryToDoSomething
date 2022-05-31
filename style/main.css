@@ -1,0 +1,17 @@
+img {
+	float: right;
+	margin: 0 0 [x] [y];
+}
+
+p {
+	font-size: 25px;
+	font-family: cursive;
+}
+
+span:hover {
+	color:fuchsia;
+}
+	
+a:hover {
+	color: rgb(1, 165, 165);
+}
